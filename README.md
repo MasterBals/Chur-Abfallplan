@@ -1,4 +1,4 @@
-﻿# Chur Abfallplan
+# Chur Abfallplan
 
 Home Assistant Integration fuer die Abfalltermine der Stadt Chur.
 
