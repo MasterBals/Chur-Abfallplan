@@ -1,0 +1,15 @@
+﻿{
+    "domain":  "chur_abfall",
+    "name":  "Chur Abfall",
+    "codeowners":  [
+                       "@MasterBals"
+                   ],
+    "config_flow":  true,
+    "documentation":  "https://github.com/MasterBals/Chur-Abfallplan",
+    "iot_class":  "cloud_polling",
+    "issue_tracker":  "https://github.com/MasterBals/Chur-Abfallplan/issues",
+    "requirements":  [
+
+                     ],
+    "version":  "1.0.5"
+}
